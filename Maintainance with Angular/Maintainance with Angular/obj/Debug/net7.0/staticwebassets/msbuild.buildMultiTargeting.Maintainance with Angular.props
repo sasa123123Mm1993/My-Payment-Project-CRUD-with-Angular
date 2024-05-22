@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Maintainance with Angular.props" />
+</Project>
