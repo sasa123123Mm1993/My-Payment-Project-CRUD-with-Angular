@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Maintainance with Angular")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9a0cd2677e5b3ed33feb262c2a8b17c9a55130b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Maintainance with Angular")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Maintainance with Angular")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
