@@ -1,0 +1,413 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|c:\\users\\mmm\\source\\repos\\my-payment-project-crud-with-angular\\maintainance with angular\\maintainance with angular\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|solutionrelative:maintainance with angular\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|c:\\users\\mmm\\source\\repos\\my-payment-project-crud-with-angular\\maintainance with angular\\maintainance with angular\\extensions\\identityerrorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|solutionrelative:maintainance with angular\\extensions\\identityerrorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|c:\\users\\mmm\\source\\repos\\my-payment-project-crud-with-angular\\maintainance with angular\\maintainance with angular\\dtos\\userdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|solutionrelative:maintainance with angular\\dtos\\userdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|c:\\users\\mmm\\source\\repos\\my-payment-project-crud-with-angular\\maintainance with angular\\maintainance with angular\\dtos\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|solutionrelative:maintainance with angular\\dtos\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|c:\\users\\mmm\\source\\repos\\my-payment-project-crud-with-angular\\maintainance with angular\\maintainance with angular\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|solutionrelative:maintainance with angular\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|c:\\users\\mmm\\source\\repos\\my-payment-project-crud-with-angular\\maintainance with angular\\maintainance with angular\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|solutionrelative:maintainance with angular\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|c:\\users\\mmm\\source\\repos\\my-payment-project-crud-with-angular\\maintainance with angular\\maintainance with angular\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|solutionrelative:maintainance with angular\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|c:\\users\\mmm\\source\\repos\\my-payment-project-crud-with-angular\\maintainance with angular\\maintainance with angular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|solutionrelative:maintainance with angular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|c:\\users\\mmm\\source\\repos\\my-payment-project-crud-with-angular\\maintainance with angular\\maintainance with angular\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|solutionrelative:maintainance with angular\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|c:\\users\\mmm\\source\\repos\\my-payment-project-crud-with-angular\\maintainance with angular\\maintainance with angular\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|solutionrelative:maintainance with angular\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|c:\\users\\mmm\\source\\repos\\my-payment-project-crud-with-angular\\maintainance with angular\\maintainance with angular\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|solutionrelative:maintainance with angular\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|c:\\users\\mmm\\source\\repos\\my-payment-project-crud-with-angular\\maintainance with angular\\maintainance with angular\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|solutionrelative:maintainance with angular\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|c:\\users\\mmm\\source\\repos\\my-payment-project-crud-with-angular\\maintainance with angular\\maintainance with angular\\migrations\\20240522204516_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|solutionrelative:maintainance with angular\\migrations\\20240522204516_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|c:\\users\\mmm\\source\\repos\\my-payment-project-crud-with-angular\\maintainance with angular\\maintainance with angular\\maintainance with angular.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|solutionrelative:maintainance with angular\\maintainance with angular.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|c:\\users\\mmm\\source\\repos\\my-payment-project-crud-with-angular\\maintainance with angular\\maintainance with angular\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|solutionrelative:maintainance with angular\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|c:\\users\\mmm\\source\\repos\\my-payment-project-crud-with-angular\\maintainance with angular\\maintainance with angular\\models\\identity\\appuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|solutionrelative:maintainance with angular\\models\\identity\\appuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|c:\\users\\mmm\\source\\repos\\my-payment-project-crud-with-angular\\maintainance with angular\\maintainance with angular\\models\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|solutionrelative:maintainance with angular\\models\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|c:\\users\\mmm\\source\\repos\\my-payment-project-crud-with-angular\\maintainance with angular\\maintainance with angular\\models\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|solutionrelative:maintainance with angular\\models\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|c:\\users\\mmm\\source\\repos\\my-payment-project-crud-with-angular\\maintainance with angular\\maintainance with angular\\migrations\\20240514040515_first_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|solutionrelative:maintainance with angular\\migrations\\20240514040515_first_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|c:\\users\\mmm\\source\\repos\\my-payment-project-crud-with-angular\\maintainance with angular\\maintainance with angular\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|solutionrelative:maintainance with angular\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|c:\\users\\mmm\\source\\repos\\my-payment-project-crud-with-angular\\maintainance with angular\\maintainance with angular\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|solutionrelative:maintainance with angular\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|c:\\users\\mmm\\source\\repos\\my-payment-project-crud-with-angular\\maintainance with angular\\maintainance with angular\\maintainance with angular.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{79FD439D-8AA8-42F4-BA73-2456A42C71CC}|Maintainance with Angular\\Maintainance with Angular.csproj|solutionrelative:maintainance with angular\\maintainance with angular.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Releases\\Fawry\\16-5-2024\\Services\\EF\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Maintainance with Angular\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Maintainance with Angular\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAwwCcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:48:58.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\appsettings.json",
+              "RelativeDocumentMoniker": "Maintainance with Angular\\appsettings.json",
+              "ToolTip": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\appsettings.json",
+              "RelativeToolTip": "Maintainance with Angular\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T20:12:03.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentDetail.cs",
+              "DocumentMoniker": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Models\\PaymentDetail.cs",
+              "RelativeDocumentMoniker": "Maintainance with Angular\\Models\\PaymentDetail.cs",
+              "ToolTip": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Models\\PaymentDetail.cs",
+              "RelativeToolTip": "Maintainance with Angular\\Models\\PaymentDetail.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:12:03.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Maintainance with Angular\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Maintainance with Angular\\DTOs\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:53:03.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\DTOs\\Result.cs",
+              "RelativeDocumentMoniker": "Maintainance with Angular\\DTOs\\Result.cs",
+              "ToolTip": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\DTOs\\Result.cs",
+              "RelativeToolTip": "Maintainance with Angular\\DTOs\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:54:55.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\DTOs\\UserDetailsDto.cs",
+              "RelativeDocumentMoniker": "Maintainance with Angular\\DTOs\\UserDetailsDto.cs",
+              "ToolTip": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\DTOs\\UserDetailsDto.cs",
+              "RelativeToolTip": "Maintainance with Angular\\DTOs\\UserDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:51:50.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdentityErrorExtension.cs",
+              "DocumentMoniker": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Extensions\\IdentityErrorExtension.cs",
+              "RelativeDocumentMoniker": "Maintainance with Angular\\Extensions\\IdentityErrorExtension.cs",
+              "ToolTip": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Extensions\\IdentityErrorExtension.cs",
+              "RelativeToolTip": "Maintainance with Angular\\Extensions\\IdentityErrorExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:01:16.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Program.cs",
+              "RelativeDocumentMoniker": "Maintainance with Angular\\Program.cs",
+              "ToolTip": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Program.cs",
+              "RelativeToolTip": "Maintainance with Angular\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAADwvxwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:12:03.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentDetailContext.cs",
+              "DocumentMoniker": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Models\\PaymentDetailContext.cs",
+              "RelativeDocumentMoniker": "Maintainance with Angular\\Models\\PaymentDetailContext.cs",
+              "ToolTip": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Models\\PaymentDetailContext.cs",
+              "RelativeToolTip": "Maintainance with Angular\\Models\\PaymentDetailContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:12:03.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\MMM\\Source\\Repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Maintainance with Angular\\Services\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\MMM\\Source\\Repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Services\\ITokenService.cs",
+              "RelativeToolTip": "Maintainance with Angular\\Services\\ITokenService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwBAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:26:04.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Maintainance with Angular\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Maintainance with Angular\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:24:59.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Maintainance with Angular\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "Maintainance with Angular\\DTOs\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:00:04.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240522204516_InitMigration.cs",
+              "DocumentMoniker": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Migrations\\20240522204516_InitMigration.cs",
+              "RelativeDocumentMoniker": "Maintainance with Angular\\Migrations\\20240522204516_InitMigration.cs",
+              "ToolTip": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Migrations\\20240522204516_InitMigration.cs",
+              "RelativeToolTip": "Maintainance with Angular\\Migrations\\20240522204516_InitMigration.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAQwDgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:45:16.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Maintainance with Angular",
+              "DocumentMoniker": "C:\\Users\\MMM\\Source\\Repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Maintainance with Angular.csproj",
+              "RelativeDocumentMoniker": "Maintainance with Angular\\Maintainance with Angular.csproj",
+              "ToolTip": "C:\\Users\\MMM\\Source\\Repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Maintainance with Angular.csproj",
+              "RelativeToolTip": "Maintainance with Angular\\Maintainance with Angular.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T20:37:06.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppUserRole.cs",
+              "DocumentMoniker": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Models\\Identity\\AppUserRole.cs",
+              "RelativeDocumentMoniker": "Maintainance with Angular\\Models\\Identity\\AppUserRole.cs",
+              "ToolTip": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Models\\Identity\\AppUserRole.cs",
+              "RelativeToolTip": "Maintainance with Angular\\Models\\Identity\\AppUserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:28:00.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Models\\Identity\\AppRole.cs",
+              "RelativeDocumentMoniker": "Maintainance with Angular\\Models\\Identity\\AppRole.cs",
+              "ToolTip": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Models\\Identity\\AppRole.cs",
+              "RelativeToolTip": "Maintainance with Angular\\Models\\Identity\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:27:48.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Models\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "Maintainance with Angular\\Models\\Identity\\AppUser.cs",
+              "ToolTip": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Models\\Identity\\AppUser.cs",
+              "RelativeToolTip": "Maintainance with Angular\\Models\\Identity\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:27:36.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Controllers\\PaymentDetailController.cs",
+              "RelativeDocumentMoniker": "Maintainance with Angular\\Controllers\\PaymentDetailController.cs",
+              "ToolTip": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Controllers\\PaymentDetailController.cs",
+              "RelativeToolTip": "Maintainance with Angular\\Controllers\\PaymentDetailController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAD4vxEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:12:03.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240514040515_First_Migration.cs",
+              "DocumentMoniker": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Migrations\\20240514040515_First_Migration.cs",
+              "RelativeDocumentMoniker": "Maintainance with Angular\\Migrations\\20240514040515_First_Migration.cs",
+              "ToolTip": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Migrations\\20240514040515_First_Migration.cs",
+              "RelativeToolTip": "Maintainance with Angular\\Migrations\\20240514040515_First_Migration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:12:03.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Releases\\Fawry\\16-5-2024\\Services\\EF\\Web.config",
+              "ToolTip": "D:\\Releases\\Fawry\\16-5-2024\\Services\\EF\\Web.config",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-16T11:22:54.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Maintainance with Angular\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\WeatherForecast.cs",
+              "RelativeToolTip": "Maintainance with Angular\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:12:03.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Maintainance with Angular",
+              "DocumentMoniker": "C:\\Users\\MMM\\Source\\Repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Maintainance with Angular.csproj",
+              "RelativeDocumentMoniker": "Maintainance with Angular\\Maintainance with Angular.csproj",
+              "ToolTip": "C:\\Users\\MMM\\Source\\Repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Maintainance with Angular.csproj",
+              "RelativeToolTip": "Maintainance with Angular\\Maintainance with Angular.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T20:12:03.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Maintainance with Angular\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MMM\\source\\repos\\My-Payment-Project-CRUD-with-Angular\\Maintainance with Angular\\Maintainance with Angular\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Maintainance with Angular\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T20:12:03.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
